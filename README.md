@@ -6,6 +6,16 @@
 
 A Chinese translation of [TeachYourselfCS](https://teachyourselfcs.com/). 
 
+推荐一下计算机系统学习网站，有Java、C++、Python、操作系统、网络等学习路线，计算机必读书籍PDF、C++、Java、计算机基础面试题等：
+
+https://csguide.cn/roadmap/
+
+![image](https://github.com/imarvinle/TeachYourselfCS-CN/assets/32767727/187930e0-95c8-48f2-9fee-e7c5e7e8b95d)
+
+计算机系统学习网站
+
+
+  
 ## 导航 Navigation 
 
 *   [原网页 Original](https://teachyourselfcs.com/)
